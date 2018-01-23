@@ -1,0 +1,2 @@
+# puppetarcitect
+user for architectclass
